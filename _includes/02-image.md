@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![spider](https://publicdomainvectors.org/photos/spider-freesvg.org.jpg)
